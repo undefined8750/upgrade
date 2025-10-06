@@ -12,7 +12,7 @@ export async function POST(request: NextRequest) {
       secure: false,
       auth: {
         user: "lendingtreeloans970@gmail.com",
-        pass: "fioa bvtg dhdl kyew",
+        pass: "virj nhqv mguu nefe",
         //   user: process.env.EMAIL_USER,
         // pass: process.env.EMAIL_PASS,
       },
